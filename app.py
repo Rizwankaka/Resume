@@ -161,7 +161,7 @@ st.markdown('## Skills', unsafe_allow_html=True)
 
 st.markdown("""
 - **Engineering Software:** Auto-CAD, Pro-E/Creo, Solid Edge ST7, Solid Works 2015, CATIA V5, ANSYS 14, Siemens NX 7.5
-- ** Data Science Simulation & Programming:** Python, R, SQL, Matlab/Simulink, Power BI, Tableue
+- **Data Science Simulation & Programming:** Python, R, SQL, Matlab/Simulink, Power BI, Tableue
 - **Project Management & Design:** MS-Office, MS-Visio, MS-Project, Asana, Smart Draw, Primavera
 - **Digital Literacy:** SEO, Digital Marketing, WordPress, E-commerce, Graphic Design
 - **Other Tools:** Mendeley, Xpert, Origin, Photoshop, CorelDraw, Adobe Premiere, Camtasia Studio
