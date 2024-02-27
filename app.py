@@ -21,7 +21,13 @@ st.info('''
 - Skilled in utilizing advanced software and programming languages for data analysis, machine learning, and AI applications. 
 - Demonstrates a strong commitment to sustainability, innovation, and client satisfaction.
 ''')
-
+#####################
+st.markdown('## Personal Information', unsafe_allow_html=True)
+st.markdown("""
+- **Marital Status:** Married
+- **Gender:** Male
+- **Date of Birth:** December 24, 1985
+""", unsafe_allow_html=True)
 #####################
 # Navigation
 
@@ -197,38 +203,25 @@ st.markdown('## Contact', unsafe_allow_html=True)
 
 st.markdown("""
 <div style="text-align: left;">
-    <table>
-        <tr>
-            <th><b>Attribute</b></th>
-            <th><b>Details</b></th>
-        </tr>
-        <tr>
-            <td style="text-align: left;"><b>Author</b></td>
-            <td style="text-align: left;"><b>Rizwan</b></td>
-        </tr>
-        <tr>
-            <td style="text-align: left;">GitHub</td>
-            <td style="text-align: left;"><a href="https://github.com/Rizwankaka"><img src="https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge&logo=github" alt="GitHub"/></a></td>
-        </tr>
-        <tr>
-            <td style="text-align: left;">LinkedIn</td>
-            <td style="text-align: left;"><a href="https://www.linkedin.com/in/rizwan-rizwan-1351a650/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a></td>
-        </tr>
-        <tr>
-            <td style="text-align: left;">Twitter</td>
-            <td style="text-align: left;"><a href="https://twitter.com/RizwanRizwan_"><img src="https://img.shields.io/badge/Twitter-Profile-blue?style=for-the-badge&logo=twitter" alt="Twitter"/></a></td>
-        </tr>
-        <tr>
-            <td style="text-align: left;">Facebook</td>
-            <td style="text-align: left;"><a href="https://www.facebook.com/RIZWANNAZEEER"><img src="https://img.shields.io/badge/Facebook-Profile-blue?style=for-the-badge&logo=facebook" alt="Facebook"/></a></td>
-        </tr>
-        <tr>
-            <td style="text-align: left;">Gmail</td>
-            <td style="text-align: left;"><a href="mailto:riwan.rewala@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail" alt="Gmail"/></a></td>
-        </tr>
-    </table>
+    <p><b>Author:</b> Rizwan</p>
+    <p>
+        <a href="https://github.com/Rizwankaka" target="_blank"><img src="https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge&logo=github" alt="GitHub"/></a>
+    </p>
+    <p>
+        <a href="https://www.linkedin.com/in/rizwan-rizwan-1351a650/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+    </p>
+    <p>
+        <a href="https://twitter.com/RizwanRizwan_" target="_blank"><img src="https://img.shields.io/badge/Twitter-Profile-blue?style=for-the-badge&logo=twitter" alt="Twitter"/></a>
+    </p>
+    <p>
+        <a href="https://www.facebook.com/RIZWANNAZEEER" target="_blank"><img src="https://img.shields.io/badge/Facebook-Profile-blue?style=for-the-badge&logo=facebook" alt="Facebook"/></a>
+    </p>
+    <p>
+        <a href="mailto:riwan.rewala@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail" alt="Gmail"/></a>
+    </p>
 </div>
 """, unsafe_allow_html=True)
+
 
 
 
